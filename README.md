@@ -2,4 +2,4 @@
 
 #In memory management QPointer discussed and
 
-#SourceCode to be added soon
+#SourceCode added 
