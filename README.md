@@ -1,4 +1,4 @@
-# Qt5_Intermediate_1.1MemoryManagement_1.2_QPointer
+# Qt5_Intermediate_1.2_MemoryManagement_QPointer
 
 #In memory management QPointer discussed and
 
